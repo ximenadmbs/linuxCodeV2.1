@@ -1,5 +1,3 @@
-# linuxCodeV2.1
-linuxCodeV2.1 carpeta dos
 # Comandos terminal git modificaciones posteriores, respaldo github:
 
 https://github.com/ximenadmbs/linuxCodeV2.1.git
@@ -50,3 +48,4 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 ### Subir el o los archivos al repositorio de github
     
     git push
+    
